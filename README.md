@@ -1,4 +1,4 @@
-#when you get this error use this command:- (git pull origin main) and then push again (git push -u origin main)
+#when you get this error use this command:- (git pull origin main) and then push again (git push -u origin main).
 <img width="1195" height="277" alt="image" src="https://github.com/user-attachments/assets/b7a46985-9fe2-456c-884c-4f9473b74ad7" />
 
 
