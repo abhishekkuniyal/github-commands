@@ -8,6 +8,9 @@ git config --global user.email "email"
 # Set your global Git username
 git config --global user.name "username"
 
+#for specific extension file
+git add *.py (.fileextension)
+
 # Initialize a new Git repository in the current directory
 git init
 
